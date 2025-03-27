@@ -54,4 +54,4 @@ Controlled by **Recon Chain AB, Sweden**
 
 ## Tags
 
-nft, utility, recon-chain, crisis-management, zkSync, reconciliation
+nft, utility, recon-chain, y-cash, crisis-management, zkSync, reconciliation
