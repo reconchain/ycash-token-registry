@@ -2,7 +2,7 @@
 
 **Token Name**: Y-CASH  
 **Symbol**: YCASH  
-**Type**: ERC-721 NFT  
+**Type**: ERC-20 Fungible Token  
 **Chain**: zkSync Era Mainnet  
 **Contract Address**: `0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E`
 
