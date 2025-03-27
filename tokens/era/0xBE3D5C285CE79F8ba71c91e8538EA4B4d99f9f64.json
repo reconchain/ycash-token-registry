@@ -1,24 +1,26 @@
 {
-    "name": "Y-CASH",
-    "symbol": "YCASH",
-    "type": "ERC20",
-    "decimals": 18,
-    "address": "0xBE3D5C285CE79F8ba71c91e8538EA4B4d99f9f64",
-    "chainId": 324,
-    "logoURI": "https://reconchain.com/assets/ycash-logo.png",
-    "description": "Y-CASH is a fungible token used within the Recon Chain ecosystem for 1-to-1 value representation, reconciliation, and internal transfers.",
-    "website": "https://reconchain.com",
-    "trademark": "Y-CASH® is a registered trademark of Recon Chain AB, Sweden.",
-    "tags": [
-      "erc-20",
-      "recon-chain",
-      "ycash",
-      "fungible-token",
-      "crisis-management",
-      "governance"
-    ],
-    "contact": {
-      "email": "service@reconchain.com",
-      "github": "https://github.com/reconchain/y-cash"
-    }
+  "name": "Y-CASH",
+  "symbol": "YCASH",
+  "type": "ERC20",
+  "decimals": 18,
+  "address": "0xBE3D5C285CE79F8ba71c91e8538EA4B4d99f9f64",
+  "chainId": 324,
+  "version": "v1",
+  "immutable": true,
+  "logoURI": "https://reconchain.com/assets/ycash-logo.png",
+  "description": "Y-CASH is a fungible token used within the Recon Chain ecosystem for 1-to-1 value representation, reconciliation, and internal transfers. It is strictly controlled and non-transferable outside internal entities.",
+  "website": "https://ycash.com",
+  "trademark": "Y-CASH® is a registered trademark of Recon Chain AB, Sweden.",
+  "tags": [
+    "erc-20",
+    "recon-chain",
+    "ycash",
+    "fungible-token",
+    "crisis-management",
+    "governance"
+  ],
+  "contact": {
+    "email": "service@ycash.com",
+    "github": "https://github.com/reconchain/ycash-token-registry"
   }
+}
