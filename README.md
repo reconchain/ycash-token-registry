@@ -1,10 +1,10 @@
-# RECON NFT
+# Y-CASH Token
 
 **Token Name**: Y-CASH  
 **Symbol**: YCASH  
 **Type**: ERC-20 Fungible Token  
 **Chain**: zkSync Era Mainnet  
-**Contract Address**: `0x8ae36E5968dcFcDB3111Be91b5B927CeD93a7F4E`
+**Contract Address**: `0xBE3D5C285CE79F8ba71c91e8538EA4B4d99f9f64`
 
 ---
 
@@ -13,17 +13,17 @@
 The Y-CASH fungible token is designed for use within the **Recon Chain** framework.  
 It enables secure reconciliation, proforma invoicing, and emergency logistics during crises.
 
-- Tokens are **non-transferrable** to external wallets.
-- Only **whitelisted internal wallets** can receive or send YCASH tokens.
+- Tokens are **non-transferrable** to external wallets.  
+- Only **whitelisted internal wallets** can receive or send YCASH tokens.  
 - Minting is controlled by the platform and issued to trusted agents (e.g. hardware wallets such as Tangem).
 
 ---
 
 ## Metadata Location
 
-The associated metadata JSON file for this token is located at: tokens/era/0xBE3D5C285CE79F8ba71c91e8538EA4B4d99f9f64.json
+The associated metadata JSON file for this token is located at: `tokens/era/0xBE3D5C285CE79F8ba71c91e8538EA4B4d99f9f64.json`
 
-This format aligns with zkSync Era token registry standards for NFT indexing.
+This format aligns with zkSync Era token registry standards for **fungible token indexing**.
 
 ---
 
@@ -31,8 +31,8 @@ This format aligns with zkSync Era token registry standards for NFT indexing.
 
 This repository follows the [zkSync Era Token Registry Standard](https://github.com/matter-labs/zksync-token-list), used by:
 
-- Wallet providers (e.g. Argent, Rabby, Zerion)
-- NFT explorers
+- Wallet providers (e.g. Argent, Rabby, Zerion)  
+- Token explorers  
 - DeFi and analytics platforms
 
 ---
@@ -54,4 +54,4 @@ Controlled by **Recon Chain AB, Sweden**
 
 ## Tags
 
-nft, utility, recon-chain, y-cash, crisis-management, zkSync, reconciliation
+erc20, utility, recon-chain, ycash, crisis-management, zkSync, reconciliation
