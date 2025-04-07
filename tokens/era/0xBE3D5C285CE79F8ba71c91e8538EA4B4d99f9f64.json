@@ -7,7 +7,7 @@
   "chainId": 324,
   "version": "v1",
   "immutable": true,
-  "logoURI": "https://ycash.com/assets/ycash-logo.png",
+  "logoURI": "https://ycash.com/assets/ycash-black.svg",
   "description": "Y-CASH is a fungible token used within the Recon Chain ecosystem for 1-to-1 value representation, reconciliation, and internal transfers. It is strictly controlled and non-transferable outside internal entities.",
   "website": "https://ycash.com",
   "trademark": "Y-CASH® is a registered trademark of Recon Chain AB, Sweden.",
